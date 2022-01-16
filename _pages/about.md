@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Hello!"
-excerpt: "About me"
+title: "About Me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## I am Swarali. Welcome to my homepage, it is under construction.
+## Hello! I am Swarali. Welcome to my homepage, it is under construction.
 
 
 * ### I am a first year graduate student at West Virginia University. My research interests are in the domain of astronomy. I currently work with Dr. Emmanuel Fonseca at WVU. 
