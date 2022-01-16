@@ -11,49 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics and Astronomy, West Virginia University, 2021-2026 (expected)
+* B.S.-M.S. in Physics, IISER Thiruvananthapuram, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021-Present: Graduate Research Assistant
+  * Department of Physics and Astronomy, WVU
+  * Advisor: Dr. Emmanuel Fonseca
+  * Working on neutron stars and transients
+
+* Fall 2021: Graduate Teaching Assistant
+  * Department of Physics and Astronomy, WVU
+  * Course: PHYS 102 Introductory Physics
+
+* Summer 2019: Summer Intern
+  * Physical Research Laboratory of the ISRO, India
+  * Advisor: Dr. Manash Samal
+  * Distance and evolutionary status of galactic star clusters using GAIA telescope
+
+* Summer 2018: Summer Intern
+  * National Centre for Radio Astrophysics (NCRA-TIFR), India
+  * Advisor: Dr. Bhaswati Bhattacharyya
+  * Pulsar timing
+
+* Winter 2017: Project Student
+  * IUCAA Pune, India
+  * Advisor: Prof. Sanjit Mitra
+  * Gravitational Wave Physics with LIGO
+
+
+Degree Projects
+======
+
+* Master's Thesis: Weak Lensing of the CMB Polarization
+  * July 2020 - Apr 2021
+  * School of Physics, IISER Thiruvananthapuram
+  * Advisor: Dr. Soumen Basak
+
+* Minor Degree Project: Plasmon Ruler Equation for Nanometallic Homodimers
+  * Jan 2020 - May 2020
+  * School of Chemistry, IISER Thiruvananthapuram
+  * Advisor: Dr. R S Swathi
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C++
+* MATLAB, Mathematica, OriginLab, LaTeX
 
-Publications
+Posters
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Unveiling Distance and Evolutionary status of Galactic Star Cluster with GAIA
+  * 38th Annual Meeting of the Astronomical Society of India
