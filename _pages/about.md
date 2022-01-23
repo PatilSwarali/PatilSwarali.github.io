@@ -15,7 +15,7 @@ redirect_from:
 
 * ### Previously, I have worked in the field of cosmology, star formation and pulsar timing. Please find my CV page for more info.
 
-* ### When not working, I enjoy singing, taking long walks and cooking up questionable dishes.
+* ### When not working, I enjoy singing, taking long walks and cooking up Maharashtrian dishes.
 
 
 ##### Thank you for stopping by.
