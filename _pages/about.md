@@ -11,11 +11,11 @@ redirect_from:
 ## Hello! I am Swarali. Welcome to my homepage, it is under construction.
 
 
-* ### I am a first year graduate student at West Virginia University. My research interests are in the domain of astronomy. I currently work with Dr. Emmanuel Fonseca at WVU. 
+* ### I am a first year graduate student at West Virginia University. My research interests are in the domain of astronomy. I currently work with Dr. Emmanuel Fonseca at WVU. I am a member of the <a href="https://chime-experiment.ca/en"> Canadian Hydrogen Intensity Mapping Experiment (CHIME) </a> collaboration.
 
 * ### Previously, I have worked in the field of cosmology, star formation and pulsar timing. Please find my CV page for more info.
 
-* ### When not working, I enjoy singing, taking long walks and cooking up Maharashtrian dishes.
+* ### Along with physics and research, music is an integral part of my life. More about it in the <a href="https://swarali-glitch.github.io/misc/"> miscellaneous </a> page.
 
 
 ##### Thank you for stopping by.
