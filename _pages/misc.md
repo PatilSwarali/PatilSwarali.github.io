@@ -5,4 +5,4 @@ permalink: /misc/
 author_profile: false
 ---
 
-!(/PatilSwarali.github.io/images/classical.jpg)
+(/PatilSwarali.github.io/images/classical.jpg)
