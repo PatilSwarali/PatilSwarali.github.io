@@ -17,6 +17,8 @@ I received the gift of music from my talented parents. Since I was little, they 
 " target="_blank"><img src="http://img.youtube.com/vi/i9a6tmVkYZo/3.jpg" 
 alt="O Rangrez" width="240" height="180" border="10" /></a>
 
+[![](http://img.youtube.com/vi/i9a6tmVkYZo/3.jpg)](http://www.youtube.com/watch?v=i9a6tmVkYZo)
+
 
 Gaansaraswati Kishori ji Amonkar and Pt. Hridaynath Mangeshkar are my musical idols.
 
