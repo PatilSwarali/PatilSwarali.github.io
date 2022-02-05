@@ -14,7 +14,7 @@ I enjoy learning new musical instruments. It's wonderful how the underlying phys
 
 
 <a href="https://www.youtube.com/watch?v=i9a6tmVkYZo
-" target="_blank"><img src="http://img.youtube.com/vi/i9a6tmVkYZo/1.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/i9a6tmVkYZo/2.jpg" 
 alt="O Rangrez" width="240" height="180" border="10" /></a>
 
 
