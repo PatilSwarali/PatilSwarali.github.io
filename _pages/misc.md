@@ -5,8 +5,9 @@ permalink: /misc/
 author_profile: false
 ---
 
-Music
 ------
+
+## Music
 
 It's wonderful how the underlying physics is seemingly simple and same in all of music yet, it can make us feel so many things in so many different ways.
 
