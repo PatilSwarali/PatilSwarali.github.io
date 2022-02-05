@@ -15,7 +15,7 @@ redirect_from:
 
 * ### Previously, I have worked in the field of cosmology, star formation and pulsar timing. Please find my CV page for more info.
 
-* ### Along with physics and research, music is an integral part of my life. More about it in the <a href="https://swarali-glitch.github.io/misc/"> miscellaneous </a> page.
+* ### Along with physics and research, music is an integral part of my life. More about it in the <a href="https://PatilSwarali.github.io/misc/"> miscellaneous </a> page.
 
 
 ##### Thank you for stopping by.
