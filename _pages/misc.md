@@ -25,10 +25,11 @@ Gaansaraswati Kishori ji Amonkar and Pt. Hridaynath Mangeshkar are my musical id
 
 ------
 
-#### I like to think I can cook well
+#### 
 
 <p align="center">
- <img src="https://PatilSwarali.github.io/images/misal.jpg" width="200"/>
+ <img src="https://PatilSwarali.github.io/images/misal.jpg" width="200"/> <img src="https://PatilSwarali.github.io/images/fish.jpg" width="200"/><img src="https://PatilSwarali.github.io/images/puranpoli.jpg" width="200"/>
     <br>
-    <em>Misal</em>
+    <em>I think I am a good cook (my mom may not fully agree)</em>
 </p>
+
