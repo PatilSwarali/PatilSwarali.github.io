@@ -15,19 +15,10 @@ I received the gift of music from my talented parents. At home, I was introduced
 
 
 Gaansaraswati Kishori ji Amonkar and Pt. Hridaynath Mangeshkar are my musical idols. I learned appreciating western music from my friends. U2, Fleetwood Mac, Queen are my favorites.
+    
 
-
-<div id="container">
-    <img src="https://github.com/PatilSwarali/PatilSwarali.github.io/blob/master/images/ishya.jpg" alt="drawing" width="500"/>
-    Here's a moment from Raag Malhar performance in IISER TVM
-</div>
-
-#container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
+<p align="center">
+ <img src="https://github.com/PatilSwarali/PatilSwarali.github.io/blob/master/images/ishya.jpg" alt="IISER" height="640" width="960"/>
+    <br>
+    <em>Here's a moment from Raag Malhar performance in IISER TVM</em>
+</p>
