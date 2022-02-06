@@ -7,7 +7,7 @@ author_profile: false
 
 ------
 
-I currently work on Fast Radio Bursts (FRBs) with the CHIME Telescope. FRBs are strong radio emission signals originating from sources that are not fully identified yet. These bursts are sporadic and have an extremely small duration ranging from a few micro-seconds to milli-seconds. My work involves using and developing computational methods to process the telescope data in the hope of possibly discovering some relevant physical phenomena.  
+I currently work on Fast Radio Bursts (FRBs) with the CHIME Telescope. FRBs are strong radio emission signals originating from astronomical sources that are not fully identified yet. These bursts are sporadic and have an extremely small duration ranging from a few micro-seconds to milli-seconds. My work involves using and developing computational methods to process the telescope data in the hope of possibly discovering some relevant physical phenomena.  
 
 ## My research interests are:
   * Neutron stars and FRBs
