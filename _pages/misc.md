@@ -18,9 +18,9 @@ Gaansaraswati Kishori ji Amonkar and Pt. Hridaynath Mangeshkar are my musical id
     
 
 <p align="center">
- <img src="https://github.com/PatilSwarali/PatilSwarali.github.io/blob/master/images/ishya.jpg" alt="IISER" width="600"/>
+ <img src="https://github.com/PatilSwarali/PatilSwarali.github.io/blob/master/images/ishya.jpg" alt="" width="600"/>
     <br>
-    <em>Here's a moment from Raag Malhar performance in IISER TVM, 2019</em>
+    <em>Raag Malhar performance in IISER TVM, 2019</em>
 </p>
 
 ------
