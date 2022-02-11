@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Swarali Patil"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
